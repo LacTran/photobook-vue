@@ -1,0 +1,1 @@
+export declare module 'aws_exports';
